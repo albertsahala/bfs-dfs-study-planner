@@ -1,0 +1,4 @@
+C:\Users\Albert's PC\Documents\Graf\Graf\obj\Debug\MainWindow.g.cs
+C:\Users\Albert's PC\Documents\Graf\Graf\obj\Debug\App.g.cs
+C:\Users\Albert's PC\Documents\Graf\Graf\obj\Debug\Graf_MarkupCompile.cache
+C:\Users\Albert's PC\Documents\Graf\Graf\obj\Debug\Graf_MarkupCompile.lref
